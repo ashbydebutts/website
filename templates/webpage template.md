@@ -1,10 +1,8 @@
 ---
-title: Home
+title: 
 description:
 aliases:
 tags:
 draft: false
 date:
 ---
-
-Hello, world
