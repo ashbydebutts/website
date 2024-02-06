@@ -15,6 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
+         This website does not provide professional medical advice and should not be used as a substitute for consultation with a physician. Please read more disclaimers <a href="https://ashbydebutts.com/legal">here</a>.<br/>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
