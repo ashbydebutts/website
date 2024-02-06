@@ -1,6 +1,6 @@
 ---
 title: Welcome
-description:
+description: homepage
 aliases:
 tags:
 draft: false
