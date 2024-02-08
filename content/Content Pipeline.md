@@ -1,3 +1,11 @@
+---
+title: Content Pipeline
+description:
+aliases:
+tags:
+draft: true
+date:
+---
 
 In progress (live)
 - homepage

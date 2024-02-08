@@ -1,5 +1,5 @@
 ---
-title: 
+title: Syncing
 description:
 aliases:
 tags:
@@ -13,3 +13,5 @@ cd documents/obsidian/quartz
 ```
 npx quartz sync
 ```
+
+[[test]]

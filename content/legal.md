@@ -1,5 +1,5 @@
 ---
-title: "Disclaimers, et cetera"
+title: legal
 description:
 aliases:
 tags:

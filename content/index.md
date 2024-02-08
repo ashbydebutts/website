@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: index
 description: homepage
 aliases:
 tags:
