@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagId: 'GTM-5H3KR3Z4'
+      provider: 'google', tagId: 'G-98S0EJWDNG'
     },
     locale: "en-US",
     baseUrl: "www.ashbydebutts.com",
