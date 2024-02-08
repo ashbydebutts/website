@@ -19,10 +19,8 @@ During medical school I've taken notes with a program called [Obsidian](https://
 Through the magic of [community-sourced plugins](https://quartz.jzhao.xyz/) I can take a few of my notes and make them available to anybody who cares to read them, and that's what I've done on this website! This is in part an effort to learn in public and reinforce my own knowledge by explaining it to myself, but I hope you learn something while you're here too
 ## What to expect
 - **Mistakes and errors**, hopefully with corrections. I try to be evidence-based and cite sources, but these are my notes and not a highly-vetted resource.
-- Shallow-to-deep dives into things like human physiology, the pathophysiology underlying disease, and modern American healthcare. Of special interest to me (in no particular order) are cardiology, nephrology, and infectious disease.
+- Shallow-to-deep dives into things like human physiology, the pathophysiology underlying disease, and modern American healthcare.
 - Erratic updates.
 ## Where to now?
 Why don't you check out what I've written about:
-- [[cardiology]]
-- [[nephrology]]
-- [[infectious disease]]
+- [[procrastination and delays in updating my website]]
