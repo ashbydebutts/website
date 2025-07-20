@@ -1,4 +1,4 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
 import { version } from "../../package.json"
 import { i18n } from "../i18n"
@@ -8,12 +8,11 @@ interface Options {
 }
 
 export default ((opts?: Options) => {
-  function Footer({ displayClass, cfg }: QuartzComponentProps) {
+  const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
         <p>
          This website does not provide professional medical advice and should not be used as a substitute for consultation with a physician. Please read more disclaimers <a href="https://ashbydebutts.com/legal">here</a>.<br/>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
