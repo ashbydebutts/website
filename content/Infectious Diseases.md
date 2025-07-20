@@ -11,7 +11,7 @@ Brief topics of discussion during my elective rotation with the infectious disea
 
 
 Guided Exploration:
-[[minimum inhibitory concentration]]
-[[VISA and VRSA]]
-[[antibiotic selection for methicillin-resistant Staphylococcus aureus]]
-[[non-tuberculous Mycobacteria]]
+- [[minimum inhibitory concentration]]
+- [[VISA and VRSA]]
+- [[antibiotic selection for methicillin-resistant Staphylococcus aureus]]
+- [[non-tuberculous Mycobacteria]]

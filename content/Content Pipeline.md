@@ -9,9 +9,6 @@ date:
 
 In progress (live)
 - homepage
-- cards MOC
-- ID MOC
-- neph MOC
 - disclaimer
 
 In progress (pipeline)

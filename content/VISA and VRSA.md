@@ -3,7 +3,7 @@ title: VISA and VRSA
 description:
 aliases:
 tags:
-draft: true
+draft: false
 date:
 ---
 Methicillin-resistant *Staphylococcus aureus* (MRSA) is classically [[minimum inhibitory concentration|susceptible]] to [[vancomycin]], but strains of vancomycin-intermediate *S. aureus* (VISA) and vancomycin-resistant *S. aureus* (VRSA) have arisen due to selective pressures, with the first VRSA isolated in 2002.
